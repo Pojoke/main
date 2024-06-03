@@ -1,0 +1,141 @@
+body {
+    height: 100%;
+}
+
+
+.navbar {
+    background-color: #2E3A59 !important
+}
+
+.paragraph {
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: #FFB400;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+.obg {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 1 auto;
+}
+
+.btn:hover {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    background-color: #465887;
+    color: #FFB400;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+
+
+}
+
+
+h5 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #465887;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+
+}
+
+.golov {
+    background-color: #fff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.golovparagraf {
+    color: #465887;
+}
+
+.drugo_p {
+    color: white;
+}
+
+.pro-nas {
+    color: #2E3A59;
+}
+
+.novinki {
+    text-align: center;
+}
+
+.hary {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    /* height: 500px; */
+
+
+}
+
+.item_price {
+    color: #2E3A59;
+}
+
+.carousel {
+    width: 800px;
+    max-width: 100%;
+
+
+}
+
+.personal {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.carus {
+    background: linear-gradient(#f9f4f4eb, #f6d2d2af);
+    /* background-color: #ffffffb1; */
+    /* backdrop-filter: blur(80%); */
+}
+
+.keriv {
+    /* height: 600px; */
+    color: #2E3A59;
+}
+
+.border {
+    border-radius: 30px;
+}
+
+.footer {
+    width: 100%;
+    margin-bottom: 0;
+    background-color: #2E3A59 !important;
+
+}
